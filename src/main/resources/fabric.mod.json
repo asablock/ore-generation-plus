@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "oregenplus",
+  "version": "${version}",
+
+  "name": "矿物生成+",
+  "description": "让矿物可以在沙砾、下界岩和末地石里生成",
+  "authors": [
+    "asablock"
+  ],
+  "contact": {
+    "homepage": "https://asablock.github.io/mods/ore-generation-plus.html",
+    "sources": "https://github.com/asablock/ore-generation-plus"
+  },
+
+  "license": "CC BY-SA 4.0",
+  "icon": "assets/oregenplus/textures/block/netherrack_diamond_ore.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.asablock.oregenplus.OreGenPlus"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.12",
+    "fabric-api": ">=0.67.0",
+    "minecraft": "~1.18.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

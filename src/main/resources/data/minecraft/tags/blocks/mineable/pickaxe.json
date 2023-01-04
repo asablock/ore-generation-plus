@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "oregenplus:netherrack_iron_ore",
+    "oregenplus:netherrack_coal_ore",
+    "oregenplus:netherrack_lapis_ore",
+    "oregenplus:netherrack_diamond_ore",
+    "oregenplus:netherrack_redstone_ore",
+    "oregenplus:netherrack_copper_ore",
+    "oregenplus:end_stone_gold_ore",
+    "oregenplus:end_stone_iron_ore",
+    "oregenplus:end_stone_coal_ore",
+    "oregenplus:end_stone_lapis_ore",
+    "oregenplus:end_stone_diamond_ore",
+    "oregenplus:end_stone_redstone_ore",
+    "oregenplus:end_stone_copper_ore"
+  ]
+}

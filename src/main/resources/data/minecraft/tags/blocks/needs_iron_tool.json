@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "oregenplus:gravel_gold_ore",
+    "oregenplus:gravel_diamond_ore",
+    "oregenplus:gravel_redstone_ore",
+    "oregenplus:netherrack_diamond_ore",
+    "oregenplus:netherrack_redstone_ore",
+    "oregenplus:end_stone_gold_ore",
+    "oregenplus:end_stone_diamond_ore",
+    "oregenplus:end_stone_redstone_ore"
+  ]
+}

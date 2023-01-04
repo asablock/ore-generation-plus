@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "oregenplus:gravel_iron_ore",
+    "oregenplus:netherrack_iron_ore",
+    "oregenplus:end_stone_iron_ore",
+    "oregenplus:gravel_lapis_ore",
+    "oregenplus:netherrack_lapis_ore",
+    "oregenplus:end_stone_lapis_ore",
+    "oregenplus:gravel_copper_ore",
+    "oregenplus:netherrack_copper_ore",
+    "oregenplus:end_stone_copper_ore"
+  ]
+}
