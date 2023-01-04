@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "矿物生成+",
-  "description": "让矿物可以在沙砾、下界岩和末地石里生成",
+  "description": "让矿物可以在沙砾、下界岩和末地石中生成",
   "authors": [
     "asablock"
   ],
